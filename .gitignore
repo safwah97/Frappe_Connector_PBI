@@ -1,0 +1,8 @@
+bin/
+obj/
+*.mez
+*.mproj.user
+.DS_Store
+*.swp
+.idea/
+.vscode/
